@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import ScrollToTop from 'react-scroll-up';
 import { FiChevronUp } from "react-icons/fi";
 import Header from "../component/header/Header";
-import Footer from "../component/footer/Footer";
+import FooterTwo from "../component/footer/FooterTwo";
 
 import SliderOne from "../component/slider/SliderOne";
 import SliderTwo from "../component/slider/SliderTwo";
@@ -20,7 +20,7 @@ class MainDemo extends Component{
         const PostList = BlogContent.slice(0 , 3);
         return(
             <div className="active-dark"> 
-                <Helmet pageTitle="Main Demo Dark" />
+                <Helmet pageTitle="Purpose Roundtable Series by GoodUp" />
                 <Header headertransparent="header--transparent" colorblack="color--black" logoname="logo.png" />
 
                 {/* Start Slider Area   */}
@@ -114,7 +114,7 @@ class MainDemo extends Component{
                 </div> */}
                 {/* End Blog Area */}
 
-                {/* Start Brand Area */}
+                {/* Start Brand Area
                 <div className="rn-brand-area brand-separation pb--120">
                     <div className="container">
                         <div className="row">
@@ -123,7 +123,7 @@ class MainDemo extends Component{
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
                 {/* End Brand Area */}
                 {/* Start Back To Top */}
                 <div className="backto-top">
@@ -133,7 +133,7 @@ class MainDemo extends Component{
                 </div>
                 {/* End Back To Top */}
                 
-                <Footer />
+                <FooterTwo />
                 
             </div>
         )

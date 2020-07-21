@@ -10,10 +10,10 @@ class Testimonial extends Component{
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
-                                        <p>Aklima The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
+                                        <h3>"Stronger alignment of business with societal interest and planning for the long-term is the only way to guarantee success, for our business, and for our planet."</h3>
                                     </div>
                                     <div className="author-info">
-                                        <h6><span>Aklima </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
+                                        <h6><span>Paul Polman </span> - CO-FOUNDER IMAGINE.</h6>
                                     </div>
                                 </div>
                             </TabPanel>
@@ -21,20 +21,20 @@ class Testimonial extends Component{
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
-                                        <p>Fatima Asrafy standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
+                                    <h3>"I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better."</h3>
                                     </div>
                                     <div className="author-info">
-                                        <h6><span>Fatima Asrafy </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
+                                        <h6><span>Elon Musk </span> - FOUNDER SPACEX AND TESLA</h6>
                                     </div>
                                 </div>
                             </TabPanel>
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
-                                        <p>Jannat Tumpa The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
+                                    <h3>"Stronger alignment of business with societal interest and planning for the long-term is the only way to guarantee success, for our business, and for our planet."</h3>
                                     </div>
                                     <div className="author-info">
-                                        <h6><span>Jannat Tumpa </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
+                                    <   h6><span>Paul Polman </span> - CO-FOUNDER IMAGINE.</h6>
                                     </div>
                                 </div>
                             </TabPanel>
@@ -96,21 +96,21 @@ class Testimonial extends Component{
                                 <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
-                                            <img src="/assets/images/client/testimonial-1.jpg" alt="Testimonial Images"/>
+                                            <img src="/assets/images/client/paul-polman.jpg" alt="Testimonial Images"/>
                                         </div>
                                     </div>
                                 </Tab>
                                 <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
-                                            <img src="/assets/images/client/testimonial-2.jpg" alt="Testimonial Images"/>
+                                            <img src="/assets/images/client/elon-musk.jpg" alt="Testimonial Images"/>
                                         </div>
                                     </div>
                                 </Tab>
                                 <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
-                                            <img src="/assets/images/client/testimonial-3.jpg" alt="Testimonial Images"/>
+                                            <img src="/assets/images/client/paul-polman.jpg" alt="Testimonial Images"/>
                                         </div>
                                     </div>
                                 </Tab>
