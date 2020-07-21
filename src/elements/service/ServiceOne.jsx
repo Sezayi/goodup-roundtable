@@ -3,18 +3,18 @@ import React, { Component } from "react";
 const ServiceList = [
     {
         icon: '01',
-        title: 'Business Stratagy',
-        description: 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered.'
+        title: 'Round table sessions',
+        description: 'Join the conversation'
     },
     {
         icon: '02',
-        title: 'Website Development',
-        description: 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered.'
+        title: 'Templates & Reads',
+        description: 'Extra curriculum'
     },
     {
         icon: '03',
-        title: 'Marketing & Reporting',
-        description: 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered.'
+        title: 'Purpose content',
+        description: 'All the purpose resources'
     },
 ]
 

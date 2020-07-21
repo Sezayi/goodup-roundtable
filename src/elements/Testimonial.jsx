@@ -39,7 +39,7 @@ class Testimonial extends Component{
                                 </div>
                             </TabPanel>
 
-                            <TabPanel>
+                            {/* <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
                                         <p>Standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
@@ -58,9 +58,9 @@ class Testimonial extends Component{
                                         <h6><span>John Doe </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
                                     </div>
                                 </div>
-                            </TabPanel>
+                            </TabPanel> */}
 
-                            <TabPanel>
+                            {/* <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
                                         <p>Chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
@@ -90,7 +90,7 @@ class Testimonial extends Component{
                                         <h6><span>JON CUMMINS </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
                                     </div>
                                 </div>
-                            </TabPanel>
+                            </TabPanel> */}
                             
                             <TabList className="testimonial-thumb-wrapper">
                                 <Tab>
@@ -114,7 +114,7 @@ class Testimonial extends Component{
                                         </div>
                                     </div>
                                 </Tab>
-                                <Tab>
+                                {/* <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
                                             <img src="/assets/images/client/testimonial-4.jpg" alt="Testimonial Images"/>
@@ -148,7 +148,7 @@ class Testimonial extends Component{
                                             <img src="/assets/images/client/testimonial-8.jpg" alt="Testimonial Images"/>
                                         </div>
                                     </div>
-                                </Tab>
+                                </Tab> */}
                             </TabList>
                         </Tabs>
                     </div>

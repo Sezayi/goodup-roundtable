@@ -120,18 +120,18 @@ class Header extends Component{
                             </ul>
                         </nav> */}
                         <div className="header-btn">
-                            <a className="rn-btn" href="https://themeforest.net/checkout/from_item/25457315?license=regular">
-                                <span>buy now</span>
+                            <a className="rn-button-style--2" href="https://themeforest.net/checkout/from_item/25457315?license=regular">
+                                <span>Save a seat</span>
                             </a>
                         </div>
                         {/* Start Humberger Menu  */}
-                        <div className="humberger-menu d-block d-lg-none pl--20">
+                        {/* <div className="humberger-menu d-block d-lg-none pl--20">
                             <span onClick={this.menuTrigger} className="menutrigger text-white"><FiMenu /></span>
-                        </div>
+                        </div> */}
                         {/* End Humberger Menu  */}
-                        <div className="close-menu d-block d-lg-none">
+                        {/* <div className="close-menu d-block d-lg-none">
                             <span onClick={this.CLoseMenuTrigger} className="closeTrigger"><FiX /></span>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </header>

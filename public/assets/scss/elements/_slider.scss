@@ -47,10 +47,9 @@ Slider Default Style
             &.title {
                 font-size: 125px;
                 font-weight: 900;
-                text-transform: uppercase;
-                font-family: 'Montserrat', sans-serif;
+                font-family: 'EdmondSans', sans-serif;
                 font-weight: 900;
-                line-height: 130px;
+                line-height: 132px;
                 @media #{$laptop-device} {
                     font-size: 100px;
                     line-height: 112px;
