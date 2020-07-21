@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import { FiX , FiMenu } from "react-icons/fi";
 
 
@@ -36,15 +36,15 @@ class Header extends Component{
         const { logo, color='default-color' } = this.props;
         let logoUrl;
         if(logo === 'light'){
-            logoUrl = <img src="/assets/images/logo/logo-light.png" alt="Digital Agency" />;
+            logoUrl = <img src="/assets/images/logo/goodup-light.png" alt="Purpose Roundtable Series" />;
         }else if(logo === 'dark'){
-            logoUrl = <img src="/assets/images/logo/logo-dark.png" alt="Digital Agency" />;
+            logoUrl = <img src="/assets/images/logo/goodup-light.png" alt="Purpose Roundtable Series" />;
         }else if(logo === 'symbol-dark'){
-            logoUrl = <img src="/assets/images/logo/logo-symbol-dark.png" alt="Digital Agency" />;
+            logoUrl = <img src="/assets/images/logo/logo-symbol-dark.png" alt="Purpose Roundtable Series" />;
         }else if(logo === 'symbol-light'){
-            logoUrl = <img src="/assets/images/logo/logo-symbol-light.png" alt="Digital Agency" />;
+            logoUrl = <img src="/assets/images/logo/logo-symbol-light.png" alt="Purpose Roundtable Series" />;
         }else{
-            logoUrl = <img src="/assets/images/logo/logo.png" alt="Digital Agency" />;
+            logoUrl = <img src="/assets/images/logo/goodup-light.png" alt="Purpose Roundtable Series" style={{width: "140px"}}  />;
         }
         
         return(
@@ -58,7 +58,7 @@ class Header extends Component{
                         </div>
                     </div>
                     <div className="header-right">
-                        <nav className="mainmenunav d-lg-block">
+                        {/* <nav className="mainmenunav d-lg-block">
                             <ul className="mainmenu">
                                 <li className="has-droupdown"><Link to="#">Home</Link>
                                     <ul className="submenu">
@@ -118,7 +118,7 @@ class Header extends Component{
                                 </li>
                                 <li><Link to="/contact" >Contact</Link></li>
                             </ul>
-                        </nav>
+                        </nav> */}
                         <div className="header-btn">
                             <a className="rn-btn" href="https://themeforest.net/checkout/from_item/25457315?license=regular">
                                 <span>buy now</span>
