@@ -8,7 +8,7 @@ const CallAction = () => {
                         <div className="inner text-center">
                             <span>Purpose Roundtable Series</span>
                             <h2>Like to join the Round Table Series?</h2>
-                            <a className="rn-button-style--2" href="/contact"><span>Get a seat</span></a>
+                            <a className="rn-button-style--2" href="/"><span>Get a seat</span></a>
                         </div>
                     </div>
                 </div>

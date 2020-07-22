@@ -113,14 +113,14 @@ class Header extends Component{
                                         <li><Link to="/contact-form">Contact Form</Link></li>
                                         <li><Link to="/google-map">Google Map</Link></li>
                                         <li><Link to="/columns">Columns</Link></li>
-                                        <li><Link to="/pricing-table">Pricing Table</Link></li>
+                                        <li><Link to="/pricing-table">Pricing Table</Link></li>        
                                     </ul>
                                 </li>
                                 <li><Link to="/contact" >Contact</Link></li>
                             </ul>
                         </nav> */}
                         <div className="header-btn">
-                            <a className="rn-button-style--2" href="https://themeforest.net/checkout/from_item/25457315?license=regular">
+                            <a className="rn-button-style--2" href="/">
                                 <span>Save your seat</span>
                             </a>
                         </div>
