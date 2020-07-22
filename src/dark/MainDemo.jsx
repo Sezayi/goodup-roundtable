@@ -3,17 +3,21 @@ import ScrollToTop from 'react-scroll-up';
 import { FiChevronUp } from "react-icons/fi";
 import Header from "../component/header/Header";
 import FooterTwo from "../component/footer/FooterTwo";
-
 import SliderOne from "../component/slider/SliderOne";
 import SliderTwo from "../component/slider/SliderTwo";
+import Portfolio from "../component/HomeLayout/homeOne/Portfolio";
+
+
 import ServiceTwo from "../elements/service/ServiceTwo";
 import CounterOne from "../elements/counters/CounterOne";
 import Testimonial from "../elements/Testimonial";
 import About from "../component/HomeLayout/homeOne/About";
-import Portfolio from "../component/HomeLayout/homeOne/Portfolio";
 import BlogContent from "../elements/blog/BlogContent";
 import BrandTwo from "../elements/BrandTwo";
 import Helmet from "../component/common/Helmet";
+
+
+import CallAction from "../elements/callaction/CallAction";
 
 class MainDemo extends Component{
     render(){
@@ -30,9 +34,9 @@ class MainDemo extends Component{
                 {/* End Slider Area   */}
 
                 {/* Start About Area */}
-                {/* <div className="about-area about-position-top pb--120 bg_color--1">
+                <div className="about-area about-position-top text-center pb--80 bg_color--1">
                     <About />
-                </div> */}
+                </div>
                 {/* End About Area */}
 
                 {/* Start Service Area  */}
@@ -125,6 +129,14 @@ class MainDemo extends Component{
                     </div>
                 </div> */}
                 {/* End Brand Area */}
+
+
+                {/* Start Contact*/}
+                <CallAction />
+                {/* Start Contact */}
+
+
+
                 {/* Start Back To Top */}
                 <div className="backto-top">
                     <ScrollToTop showUnder={160}>

@@ -30,7 +30,7 @@ class MainDemo extends Component{
                 {/* End Slider Area   */}
                 
                 {/* Start About Area */}
-                <div className="about-area about-position-top pb--120">
+                <div className="about-area about-position-top">
                     <About />
                 </div>
                 {/* End About Area */}

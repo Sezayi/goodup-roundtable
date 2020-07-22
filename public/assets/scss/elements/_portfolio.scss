@@ -72,12 +72,21 @@
         }
 
         &.image-3{
-            background-image: url(/assets/images/portfolio/portfolio-3.jpg);
+            background-image: url(/assets/images/portfolio/laura.jpg);
+        }
+
+        &.image-6 {
+            background-image: url(/assets/images/portfolio/alexander.jpg);
+        }
+
+        &.image-5 {
+            background-image: url(/assets/images/portfolio/marianne.jpg);
         }
 
         &.image-4 {
-            background-image: url(/assets/images/portfolio/portfolio-4.jpg);
+            background-image: url(/assets/images/portfolio/wouter.jpg);
         }
+
 
         &::after{
             background-color: rgba(45,45,45,.35);

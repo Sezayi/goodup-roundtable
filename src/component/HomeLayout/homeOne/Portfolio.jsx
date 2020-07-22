@@ -6,33 +6,34 @@ import { portfolioSlick2 } from "../../../page-demo/script";
 const PortfolioList = [
     {
         image: 'image-1',
-        category: 'Development',
+        category: 'Conspiracy of love',
         title: 'Afdhel Aziz'
     },
     {
         image: 'image-2',
-        category: 'Development',
+        category: 'Kantar',
         title: 'Pandora Lycouri'
     },
     {
         image: 'image-3',
-        category: 'Development',
-        title: 'Anna chojnacka'
+        category: 'Accenture',
+        title: 'Laura van den Hurk'
     },
     {
         image: 'image-4',
-        category: 'Development',
-        title: 'Anniek Mauser'
+        category: 'GoodUp',
+        title: 'Wouter Bakker'
+
     },
     {
-        image: 'image-3',
-        category: 'Development',
-        title: 'Chris Jarves'
+        image: 'image-5',
+        category: 'Booking.com',
+        title: 'Marianne Gybels'
     },
     {
-        image: 'image-4',
-        category: 'Development',
-        title: 'Thomas Kolster'
+        image: 'image-6',
+        category: 'Athlon',
+        title: 'Alexander Heijkamp'
     }
 ]
 
@@ -63,8 +64,8 @@ class Portfolio extends Component{
                                     </div>
                                     <div className="content">
                                         <div className="inner">
-                                            {/* <p>{value.category}</p> */}
                                             <h4><a href="/portfolio-details">{value.title}</a></h4>
+                                            <h5>{value.category}</h5>
                                             {/* <div className="portfolio-button">
                                                 <a className="rn-btn" href="/portfolio-details">Case Study</a>
                                             </div> */}
