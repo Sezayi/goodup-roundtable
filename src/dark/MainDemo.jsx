@@ -6,6 +6,7 @@ import FooterTwo from "../component/footer/FooterTwo";
 import SliderOne from "../component/slider/SliderOne";
 // import SliderTwo from "../component/slider/SliderTwo";
 import Portfolio from "../component/HomeLayout/homeOne/Portfolio";
+import Accordion01 from "../elements/Accordion";
 
 
 // import ServiceTwo from "../elements/service/ServiceTwo";
@@ -130,6 +131,26 @@ class MainDemo extends Component{
                 </div> */}
                 {/* End Brand Area */}
 
+
+                {/* Start About Area  */}
+                <div className="rn-about-area ptb--120 bg_color--5">
+                    <div className="container">
+                        <div className="row row--35 align-items-center">
+
+                            <div className="col-lg-6">
+                                <div className="about-inner inner">
+                                    <div className="section-title">
+                                        <h2 className="title">F.A.Q</h2>
+                                    </div>
+                                    <div className="accordion-wrapper mt--30">
+                                        <Accordion01 />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {/* End About Area  */}
 
                 {/* Start Contact*/}
                 <CallAction />

@@ -5,12 +5,12 @@
         .accordion__heading{
             display: inline-block;
             position: relative;
-            padding-bottom: 5px;
-            margin-bottom: 5px;
+            padding-bottom: 6px;
+            margin-bottom: 6px;
             .accordion__button {
                 background: none;
-                color: #1f1f25;
-                font-size: 16px;
+                color: #ffffff;
+                font-size: 24px;
                 font-weight: 500;
                 position: relative;
                 display: inline-block;
@@ -32,7 +32,7 @@
                     bottom: 0;
                     width: 50px;
                     height: 2px;
-                    background: rgba(0,0,0,0.2);
+                    background: rgba(255,255,255,0.4);
                     transition: 0.3s;
                 }
                 &::before{
@@ -50,7 +50,7 @@
             padding: 0 0 15px 0;
             margin: 0;
             font-weight: 300;
-            color: #717173;
+            color: #ffffff;
             animation: fadeInUp 0.1s;
         }
         &+.accordion__item {

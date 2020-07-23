@@ -17,7 +17,7 @@ class Accordion01 extends Component {
                 <AccordionItem >
                     <AccordionItemHeading>
                         <AccordionItemButton>
-                            Your Business Skills But Never Stop Improving.
+                            What is Purpose Roundtable Series?
                         </AccordionItemButton>
                     </AccordionItemHeading>
                     <AccordionItemPanel>
@@ -28,7 +28,7 @@ class Accordion01 extends Component {
                 <AccordionItem>
                     <AccordionItemHeading>
                         <AccordionItemButton>
-                            Tactics That Can Help Your Business Grow.
+                            What does it mean when I participate?
                         </AccordionItemButton>
                     </AccordionItemHeading>
                     <AccordionItemPanel>
@@ -41,7 +41,7 @@ class Accordion01 extends Component {
                 <AccordionItem>
                     <AccordionItemHeading>
                         <AccordionItemButton>
-                            The Secret of Successful Business
+                            When do the Purpose Rundtables take place?
                         </AccordionItemButton>
                     </AccordionItemHeading>
                     <AccordionItemPanel>
@@ -54,7 +54,7 @@ class Accordion01 extends Component {
                 <AccordionItem>
                     <AccordionItemHeading>
                         <AccordionItemButton>
-                            How To Start A Business With Business
+                            Can I watch the Purpose Roundtable Series?
                         </AccordionItemButton>
                     </AccordionItemHeading>
                     <AccordionItemPanel>
