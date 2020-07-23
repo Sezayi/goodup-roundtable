@@ -49,13 +49,13 @@
                     border-color: $theme-color;
                     color: $theme-color;
                 }
-                padding: 0 25px;
+                padding: 0 24px;
                 height: 46px;
                 display: inline-block;
                 line-height: 42px;
-                border: 2px solid #b1b4c1;
+                border: 2px solid #fff;
                 border-radius: 6px;
-                color: #c6c9d8;
+                color: #fff;
                 font-size: 14px;
                 @extend %transition;
                 position: relative;

@@ -13,8 +13,8 @@ import 'react-accessible-accordion/dist/fancy-example.css';
 class Accordion01 extends Component {
     render(){
         return(
-            <Accordion className="accodion-style--1" preExpanded={'0'}>
-                <AccordionItem >
+            <Accordion className="accodion-style--1" allowMultipleExpanded={false}>
+                <AccordionItem>
                     <AccordionItemHeading>
                         <AccordionItemButton>
                             What is Purpose Roundtable Series?
