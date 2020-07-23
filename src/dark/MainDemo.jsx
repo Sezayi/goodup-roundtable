@@ -4,16 +4,16 @@ import { FiChevronUp } from "react-icons/fi";
 import Header from "../component/header/Header";
 import FooterTwo from "../component/footer/FooterTwo";
 import SliderOne from "../component/slider/SliderOne";
-import SliderTwo from "../component/slider/SliderTwo";
+// import SliderTwo from "../component/slider/SliderTwo";
 import Portfolio from "../component/HomeLayout/homeOne/Portfolio";
 
 
-import ServiceTwo from "../elements/service/ServiceTwo";
-import CounterOne from "../elements/counters/CounterOne";
+// import ServiceTwo from "../elements/service/ServiceTwo";
+// import CounterOne from "../elements/counters/CounterOne";
 import Testimonial from "../elements/Testimonial";
 import About from "../component/HomeLayout/homeOne/About";
-import BlogContent from "../elements/blog/BlogContent";
-import BrandTwo from "../elements/BrandTwo";
+// import BlogContent from "../elements/blog/BlogContent";
+// import BrandTwo from "../elements/BrandTwo";
 import Helmet from "../component/common/Helmet";
 
 
@@ -21,7 +21,7 @@ import CallAction from "../elements/callaction/CallAction";
 
 class MainDemo extends Component{
     render(){
-        const PostList = BlogContent.slice(0 , 3);
+        // const PostList = BlogContent.slice(0 , 3);
         return(
             <div className="active-dark"> 
                 <Helmet pageTitle="Purpose Roundtable Series by GoodUp" />
