@@ -89,7 +89,7 @@
     }
     .contact-form--1 input, .contact-form--1 textarea ,
     .header-area.color-black a.rn-btn {
-        border: 2px solid rgba(255,255,255,0.2);
+        border: 2px solid white;
     }
     .header-area.color-black a.rn-btn:hover{
         border-color: $theme-color;
@@ -120,7 +120,7 @@
     }
     .contact-form--1 input,
     .contact-form--1 textarea {
-        color: rgba(198, 201, 216, 0.75)
+        color: rgba(255, 255, 255, 1)
     }
 
     .personal-portfolio-slider::before {
