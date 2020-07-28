@@ -1,6 +1,11 @@
 // React Required
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
+import TagManager from 'react-gtm-module'
+ 
+
+
+
 
 // Create Import File
 import './index.scss';
@@ -59,6 +64,14 @@ import error404 from "./elements/error404";
 
 import { BrowserRouter, Switch, Route  } from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
+
+
+
+const tagManagerArgs = {
+    gtmId: 'GTM-WG3VW5J'
+}
+
+TagManager.initialize(tagManagerArgs)
 
 
 class Root extends Component{
