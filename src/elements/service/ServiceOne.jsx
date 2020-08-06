@@ -9,12 +9,12 @@ const ServiceList = [
     {
         icon: '02',
         title: 'Creative collaboration',
-        description: 'with feasable output'
+        description: 'receive feasable output'
     },
     {
         icon: '03',
         title: 'Broaden your network',
-        description: 'and connect with experts'
+        description: 'connect with experts'
     },
 ]
 
