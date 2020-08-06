@@ -40,7 +40,7 @@ const PortfolioList = [
 class Portfolio extends Component{
     render(){
         let title = 'Join the table',
-        description = 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.';
+        description = 'Each session, we invite a select, but diverse group of experts around one core theme. Our goal is to bring together people with complementary skill sets and expertise. Take a look at some of the people that have already joined our sessions!';
         return(
             <React.Fragment>
                 <div className="portfolio-wrapper">
