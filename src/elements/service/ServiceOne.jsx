@@ -3,18 +3,18 @@ import React, { Component } from "react";
 const ServiceList = [
     {
         icon: '01',
-        title: 'Round table sessions',
-        description: 'Join the conversation'
+        title: 'Solve real challenges',
+        description: 'in an interactive session'
     },
     {
         icon: '02',
-        title: 'Templates & Reads',
-        description: 'Extra curriculum'
+        title: 'Creative collaboration',
+        description: 'receive feasable output'
     },
     {
         icon: '03',
-        title: 'Purpose content',
-        description: 'All the purpose resources'
+        title: 'Broaden your network',
+        description: 'connect with experts'
     },
 ]
 
