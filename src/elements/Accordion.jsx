@@ -21,7 +21,7 @@ class Accordion01 extends Component {
                         </AccordionItemButton>
                     </AccordionItemHeading>
                     <AccordionItemPanel>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi doloribus eaque error est explicabo facilis fugit incidunt iste iure non nostrum officia, perspiciatis quidem quisquam rerum.</p>
+                        <p>The Purpose Roundtable Series is an initiative by social venture GoodUp, in which we bring together small groups of business leaders and experts to engage in a (free) two hour work session on a specific topic surrounding purpose activation. Our goal is to always start with a problem, and end with solutions. This way, we connect, inspire and help to move forward purpose driven individuals, fuelling our mission to accelerate the purpose economy. </p>
                     </AccordionItemPanel>
                 </AccordionItem>
 
@@ -33,7 +33,7 @@ class Accordion01 extends Component {
                     </AccordionItemHeading>
                     <AccordionItemPanel>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, porro, rerum. A amet, dolorum esse laboriosam Accusantium cum laborum nulla possimus. Repellat!
+                        Participation means that you will be committing to a two hour session of insightful conversation and action, with business leaders that share your passion for purpose. You will be joining a community of purpose driven individuals that are transforming purpose into action. The purpose roundtables are invitation only.
                         </p>
                     </AccordionItemPanel>
                 </AccordionItem>
@@ -46,20 +46,7 @@ class Accordion01 extends Component {
                     </AccordionItemHeading>
                     <AccordionItemPanel>
                         <p>
-                            Ad aliquam dicta enim excepturi explicabo in ipsum iste iure natus perferendis placeat quae similique tempore totam veniam vero!
-                        </p>
-                    </AccordionItemPanel>
-                </AccordionItem>
-
-                <AccordionItem>
-                    <AccordionItemHeading>
-                        <AccordionItemButton>
-                            Can I watch the Purpose Roundtable Series?
-                        </AccordionItemButton>
-                    </AccordionItemHeading>
-                    <AccordionItemPanel>
-                        <p>
-                            Facilis fugiat hic ipsam iusto laudantium libero maiores minima molestiae mollitia repellat rerum sunt ullam voluptates? Perferendis, suscipit.
+                        We will always communicate the date of the next purpose roundtable session on this landing page.
                         </p>
                     </AccordionItemPanel>
                 </AccordionItem>
