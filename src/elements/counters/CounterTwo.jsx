@@ -42,7 +42,7 @@ class CounterOne extends Component{
                                 animateOnce={true} 
                                 delay={100}
                             >
-                                <h5 className="counter">
+                                <h5 className="">
                                     <VisibilitySensor onChange={this.onVisibilityChange} offset={{top:10}} delayedCall>
                                         <CountUp end={this.state.didViewCountUp ? value.countNum : 0} />
                                     </VisibilitySensor>

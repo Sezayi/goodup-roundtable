@@ -10,7 +10,7 @@ import Accordion01 from "../elements/Accordion";
 
 
 // import ServiceTwo from "../elements/service/ServiceTwo";
-// import CounterOne from "../elements/counters/CounterOne";
+import CounterOne from "../elements/counters/CounterOne";
 import Testimonial from "../elements/Testimonial";
 import About from "../component/HomeLayout/homeOne/About";
 // import BlogContent from "../elements/blog/BlogContent";
@@ -57,18 +57,18 @@ class MainDemo extends Component{
                 {/* End Portfolio Area */}
 
                 {/* Start CounterUp Area */}
-                {/* <div className="rn-counterup-area pt--25 pb--110 bg_color--1">
+                <div className="rn-counterup-area pt--25 pb--110 bg_color--1">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12">
-                                <div className="section-title text-center">
-                                    <h3 className="fontWeight500">Our Fun Facts</h3>
-                                </div>
+                                {/* <div className="section-title text-center">
+                                    <h3 className="fontWeight500"></h3>
+                                </div> */}
                             </div>
                         </div>
                         <CounterOne />
                     </div>
-                </div> */}
+                </div>
                 {/* End CounterUp Area */}
 
                 {/* Start Testimonial Area */}
