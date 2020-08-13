@@ -7,7 +7,7 @@ const CallAction = () => {
           <div className="col-lg-8">
             <div className="inner text-center">
               <span>Purpose Roundtable Series</span>
-              <h2>Join the Purpose Roundtable</h2>
+              <h3 className="title pb--20">Join the Purpose Roundtable</h3>
               <div className="contact-form--1">
               <form
                 method="POST"

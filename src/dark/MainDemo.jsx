@@ -145,7 +145,7 @@ class MainDemo extends Component{
                             <div className="col-lg-6">
                                 <div className="about-inner inner">
                                     <div className="section-title">
-                                        <h3 className="title text-center pb--40">Frequently asked questions</h3>
+                                        <h3 className="title text-center pb--20">Frequently asked questions</h3>
                                     </div>
                                     <div className="accordion-wrapper mt--30">
                                         <Accordion01 />
