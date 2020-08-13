@@ -41,7 +41,7 @@ class Accordion01 extends Component {
                 <AccordionItem>
                     <AccordionItemHeading>
                         <AccordionItemButton>
-                            When do the Purpose Rundtables take place?
+                            When do the Purpose Roundtables take place?
                         </AccordionItemButton>
                     </AccordionItemHeading>
                     <AccordionItemPanel>
