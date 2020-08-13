@@ -5,7 +5,7 @@ import Header from "../component/header/Header";
 import FooterTwo from "../component/footer/FooterTwo";
 import SliderOne from "../component/slider/SliderOne";
 // import SliderTwo from "../component/slider/SliderTwo";
-import Portfolio from "../component/HomeLayout/homeOne/Portfolio";
+// import Portfolio from "../component/HomeLayout/homeOne/Portfolio";
 import Accordion01 from "../elements/Accordion";
 
 
@@ -130,6 +130,7 @@ class MainDemo extends Component{
                     </div>
                 </div> */}
                 {/* End Brand Area */}
+
 
                 {/* Start About Area  */}
                 <div className="rn-about-area ptb--120 bg_color--5">
