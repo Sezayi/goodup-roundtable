@@ -35,7 +35,7 @@ class MainDemo extends Component{
                 {/* End Slider Area   */}
 
                 {/* Start About Area */}
-                <div className="about-area about-position-top text-center pb--80 bg_color--1">
+                <div className="about-area about-position-top text-center ptb--40 pt--80  bg_color--1">
                     <About />
                 </div>
                 {/* End About Area */}
@@ -131,16 +131,21 @@ class MainDemo extends Component{
                 </div> */}
                 {/* End Brand Area */}
 
+                
+                {/* Start Contact*/}
+                <CallAction />
+                {/* Start Contact */}
+
 
                 {/* Start About Area  */}
-                <div className="rn-about-area ptb--120 bg_color--5">
+                <div className="rn-about-area pb--120 pt--40 bg_color--1 ">
                     <div className="container">
-                        <div className="row row--35 align-items-center">
+                        <div className="row row--35 align-items-center justify-content-center">
 
                             <div className="col-lg-6">
                                 <div className="about-inner inner">
                                     <div className="section-title">
-                                        <h2 className="title">F.A.Q</h2>
+                                        <h3 className="title text-center pb--40">Frequently asked questions</h3>
                                     </div>
                                     <div className="accordion-wrapper mt--30">
                                         <Accordion01 />
@@ -151,11 +156,6 @@ class MainDemo extends Component{
                     </div>
                 </div>
                 {/* End About Area  */}
-
-                {/* Start Contact*/}
-                <CallAction />
-                {/* Start Contact */}
-
 
                 {/* Start Back To Top */}
                 <div className="backto-top">
