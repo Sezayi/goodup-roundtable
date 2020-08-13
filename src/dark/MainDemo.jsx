@@ -131,7 +131,6 @@ class MainDemo extends Component{
                 </div> */}
                 {/* End Brand Area */}
 
-
                 {/* Start About Area  */}
                 <div className="rn-about-area ptb--120 bg_color--5">
                     <div className="container">
