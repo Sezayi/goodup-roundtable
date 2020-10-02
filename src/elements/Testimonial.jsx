@@ -9,32 +9,11 @@ class Testimonial extends Component{
                         <Tabs>
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
-                                    <div className="inner">
-                                        <h3>"Stronger alignment of business with societal interest and planning for the long-term is the only way to guarantee success, for our business, and for our planet."</h3>
+                                    <div>
+                                        <h4>"It was a rare opportunity to hear the struggles that other organisations have, and gave valuable insight into this."</h4>
                                     </div>
                                     <div className="author-info">
-                                        <h6><span>Paul Polman </span> - CO-FOUNDER IMAGINE.</h6>
-                                    </div>
-                                </div>
-                            </TabPanel>
-
-                            <TabPanel>
-                                <div className="rn-testimonial-content text-center">
-                                    <div className="inner">
-                                    <h3>"I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better."</h3>
-                                    </div>
-                                    <div className="author-info">
-                                        <h6><span>Elon Musk </span> - FOUNDER SPACEX AND TESLA</h6>
-                                    </div>
-                                </div>
-                            </TabPanel>
-                            <TabPanel>
-                                <div className="rn-testimonial-content text-center">
-                                    <div className="inner">
-                                    <h3>"At Patagonia, making a profit is not the goal because the Zen master would say profits happen 'when you do everything else right."</h3>
-                                    </div>
-                                    <div className="author-info">
-                                    <   h6><span>Yvon Chouinard </span> - FOUNDER PATAGONIA.</h6>
+                                        <h6><span>Julie Owst </span> - Head of Sustainability and Change at Bidfood UK</h6>
                                     </div>
                                 </div>
                             </TabPanel>
@@ -94,13 +73,13 @@ class Testimonial extends Component{
                             
                             <TabList className="testimonial-thumb-wrapper">
                                 <Tab>
-                                    <div className="testimonial-thumbnai">
+                                    {/* <div className="testimonial-thumbnai">
                                         <div className="thumb">
                                             <img src="/assets/images/client/paul-polman.jpg" alt="Testimonial Images"/>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </Tab>
-                                <Tab>
+                                {/* <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">
                                             <img src="/assets/images/client/elon-musk.jpg" alt="Testimonial Images"/>
@@ -113,7 +92,7 @@ class Testimonial extends Component{
                                             <img src="https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5a90afa0a7ea434a0c2723f4%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D3633%26cropY1%3D218%26cropY2%3D3851" alt="Testimonial Images"/>
                                         </div>
                                     </div>
-                                </Tab>
+                                </Tab> */}
                                 {/* <Tab>
                                     <div className="testimonial-thumbnai">
                                         <div className="thumb">

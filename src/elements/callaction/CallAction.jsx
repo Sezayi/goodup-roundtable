@@ -1,7 +1,7 @@
 import React from "react";
 const CallAction = () => {
   return (
-    <div className="call-to-action-wrapper call-to-action text-white-wrapper  pt--120 pb--140">
+    <div className="call-to-action-wrapper call-to-action text-white-wrapper  pt--120 pb--40">
       <div className="container">
         <div className="row justify-content-center ">
           <div className="col-lg-8">

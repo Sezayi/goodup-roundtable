@@ -11,7 +11,7 @@ import Accordion01 from "../elements/Accordion";
 
 // import ServiceTwo from "../elements/service/ServiceTwo";
 // import CounterOne from "../elements/counters/CounterOne";
-// import Testimonial from "../elements/Testimonial";
+import Testimonial from "../elements/Testimonial";
 import About from "../component/HomeLayout/homeOne/About";
 // import BlogContent from "../elements/blog/BlogContent";
 // import BrandTwo from "../elements/BrandTwo";
@@ -71,13 +71,7 @@ class MainDemo extends Component{
                 </div> */}
                 {/* End CounterUp Area */}
 
-                {/* Start Testimonial Area */}
-                {/* <div className="rn-testimonial-area bg_color--1 ptb--120">
-                    <div className="container">
-                        <Testimonial />
-                    </div>
-                </div> */}
-                {/* End Testimonial Area */}
+              
 
                 {/* Start Blog Area */}
                 {/* <div className="rn-blog-area pt--120 bg_color--1 mb-dec--30">
@@ -135,6 +129,14 @@ class MainDemo extends Component{
                 {/* Start Contact*/}
                 <CallAction />
                 {/* Start Contact */}
+
+                  {/* Start Testimonial Area */ }
+                  <div className="rn-testimonial-area bg_color--1 ptb--120">
+                    <div className="container">
+                        <Testimonial />
+                    </div>
+                </div>
+                {/* End Testimonial Area */}
 
 
                 {/* Start About Area  */}
