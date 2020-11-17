@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class About extends Component{
     render(){
         let title = 'About the series',
-        description = 'During the roundtable series, GoodUp brings together small groups of purpose enthusiasts and experts to engage in a (free) two hour work session. We work together creatively on pressing themes around realising positive impact within large companies. Our goal is to always start with a problem, and end with solutions. This way, we connect, inspire and help to move forward purpose driven individuals, fuelling our mission to accelerate the purpose economy.';
+        description = 'During the Purpose Roundtable Series, GoodUp brings together small groups of purpose experts and enthusiasts to engage in a (free) two hour work session. We work together creatively on pressing themes around realising positive impact within large companies. Our goal is to always start with a problem, and end with solutions. This way, we connect, inspire and help to move forward purpose driven individuals, fuelling our mission to accelerate the purpose economy.';
         return(
             <React.Fragment>
                 <div className="about-wrapper">

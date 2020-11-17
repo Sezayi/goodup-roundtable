@@ -14,7 +14,7 @@ import Accordion01 from "../elements/Accordion";
 import Testimonial from "../elements/Testimonial";
 import About from "../component/HomeLayout/homeOne/About";
 // import BlogContent from "../elements/blog/BlogContent";
-// import BrandTwo from "../elements/BrandTwo";
+import BrandTwo from "../elements/BrandTwo";
 import Helmet from "../component/common/Helmet";
 
 
@@ -113,7 +113,7 @@ class MainDemo extends Component{
                 </div> */}
                 {/* End Blog Area */}
 
-                {/* Start Brand Area
+                {/* Start Brand Area */}
                 <div className="rn-brand-area brand-separation pb--120">
                     <div className="container">
                         <div className="row">
@@ -122,7 +122,7 @@ class MainDemo extends Component{
                             </div>
                         </div>
                     </div>
-                </div> */}
+                </div>
                 {/* End Brand Area */}
 
                 
