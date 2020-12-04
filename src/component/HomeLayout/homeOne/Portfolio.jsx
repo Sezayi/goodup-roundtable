@@ -11,13 +11,13 @@ const PortfolioList = [
     },
     {
         image: 'image-2',
-        category: 'Kantar',
-        title: 'Pandora Lycouri'
+        category: 'Unilever',
+        title: 'Anniek Mauser'
     },
     {
         image: 'image-3',
-        category: 'Accenture',
-        title: 'Laura van den Hurk'
+        category: 'Transavia',
+        title: 'Kasia'
     },
     {
         image: 'image-4',
@@ -27,13 +27,13 @@ const PortfolioList = [
     },
     {
         image: 'image-5',
-        category: 'Booking.com',
-        title: 'Marianne Gybels'
+        category: 'MARS',
+        title: 'Romi Mackiewicz'
     },
     {
         image: 'image-6',
-        category: 'Athlon',
-        title: 'Alexander Heijkamp'
+        category: 'Lidl',
+        title: 'Sanne'
     }
 ]
 
@@ -45,8 +45,8 @@ class Portfolio extends Component{
             <React.Fragment>
                 <div className="portfolio-wrapper">
                     <div className="container">
-                        <div className="row">
-                            <div className="col-lg-6">
+                        <div >
+                            <div >
                                 <div className="section-title">
                                     <h2>{title}</h2>
                                     <p>{description}</p>

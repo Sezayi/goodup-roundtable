@@ -33,7 +33,7 @@ class Accordion01 extends Component {
                     </AccordionItemHeading>
                     <AccordionItemPanel>
                         <p>
-                        Participation means that you will be committing to a two hour session of insightful conversation and action, with business leaders that share your passion for purpose. You will be joining a community of purpose driven individuals that are transforming purpose into action. The purpose roundtables are invitation only.
+                        Participation means that you will be committing to a two and a half hour session of insightful conversation and action, with business leaders that share your passion for purpose. You will be joining a community of purpose driven individuals that are transforming purpose into action. The purpose roundtables are invitation only.
                         </p>
                     </AccordionItemPanel>
                 </AccordionItem>
@@ -46,7 +46,7 @@ class Accordion01 extends Component {
                     </AccordionItemHeading>
                     <AccordionItemPanel>
                         <p>
-                        We will always communicate the date of the next purpose roundtable session on this landing page. The next Purpose Roundtable will take place at November 12 from 10:00am - 12:30pm.
+                        We will always communicate the date of the next purpose roundtable session on this landing page. The next Purpose Roundtable will take place at Januari 14th from 14:00am - 16:30pm.
                         </p>
                     </AccordionItemPanel>
                 </AccordionItem>
