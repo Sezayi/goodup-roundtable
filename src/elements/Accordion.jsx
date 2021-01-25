@@ -45,9 +45,16 @@ class Accordion01 extends Component {
                         </AccordionItemButton>
                     </AccordionItemHeading>
                     <AccordionItemPanel>
-                        <p>
-                        We will always communicate the date of the next purpose roundtable session on this landing page. The next Purpose Roundtable will take place at Januari 14th from 14:00am - 16:30pm.
+                        <p style={{marginBottom: "8px"}}>
+                        We will always communicate the date of the next purpose roundtable session on this landing page. The next Purpose Roundtables will take place at:
                         </p>
+                        
+                        <ul style={{fontSize: "1.5em"}}>
+                         <li>February 11th from 14:00am - 16:30pm CET</li>
+                         <li>March 18th from 14:00am - 16:30pm CET</li>
+                         <li>April 15th from 14:00am - 16:30pm CET</li>
+                        </ul>
+                        
                     </AccordionItemPanel>
                 </AccordionItem>
 
