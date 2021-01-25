@@ -46,7 +46,7 @@ const CallAction = () => {
                           fontSize: "15px",
                           color: "rgba(255,255,255,0.5)",
                           marginBottom: "16px",
-                          color: "#fff"
+                          color: "rgba(255,255,255,0.5)",
                         }}>On which date would you like to join?</label>
 
                       <select
